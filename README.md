@@ -65,5 +65,7 @@ For more information about this dataset contact: activityrecognition@smartlab.ws
 # Results
 As part of the Getting and Cleaning data project, run_analysis.R was created to injest the data sets listed above,
 combine them into a single data set, subset to mean() and std() measurements, and then take the mean of the 
-means and standard deviations for each activity and subject.
+means and standard deviations for each activity and subject.  Results were output into a space delimited file:
+
+# fitnessSummary.txt
 
